@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Hola, soy [Tu Nombre]</h1>
-        <p>Descripción breve sobre ti y tus habilidades.</p>
+        <p>Descripción breve sobre mí y mis habilidades.</p>
     </header>
 
     <nav>
@@ -22,7 +22,7 @@
 
     <section id="sobre-mi">
         <h2>Sobre mí</h2>
-        <p>Escribe aquí una breve biografía y tus experiencias.</p>
+        <p>Aquí puedes hablar sobre tu experiencia, formación y habilidades.</p>
     </section>
 
     <section id="proyectos">
@@ -37,7 +37,7 @@
             <p>Descripción del proyecto 2.</p>
             <a href="enlace-al-proyecto">Ver proyecto</a>
         </article>
-        <!-- Añade más proyectos según sea necesario -->
+        <!-- Agrega más proyectos según sea necesario -->
     </section>
 
     <section id="contacto">
@@ -50,6 +50,7 @@
     </footer>
 </body>
 </html>
+
 
 
 
